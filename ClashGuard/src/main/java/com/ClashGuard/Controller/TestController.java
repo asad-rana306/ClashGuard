@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/api/hello")
     public String hello() {
-        return "Hello from Spring Boot!. My name is Rana Asad";
+        return "Hello from Spring Boot!. My name is Rana Asad now i have apply the timeout on username and password";
     }
 }
